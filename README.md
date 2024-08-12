@@ -18,7 +18,4 @@ transformers: 4.44.0
 
 ## 演示
 
-<video controls>
-  <source src="show.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
+https://github.com/user-attachments/assets/d4e006a9-d656-4e8a-8dba-9d9fcea70537
