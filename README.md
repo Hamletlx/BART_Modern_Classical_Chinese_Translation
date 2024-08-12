@@ -4,12 +4,12 @@
 
 ## 概述
 
-此仓库包含[预训练参数](bart_base_chinese)，以及[文言文转换为现代文](final_model_C2M)和[现代文转换为文言文](final_model_M2C)的参数
+此仓库包含[预训练参数](bart_base_chinese)，以及[文言文转换为现代文](final_model_C2M)和[现代文转换为文言文](final_model_M2C)的参数  
 还有[训练集](data_train.csv)和[测试集](data_test.csv)
 
 ## 环境
 
-PyTorch: 2.3.1
+PyTorch: 2.3.1  
 transformers: 4.44.0
 
 ## 注意
