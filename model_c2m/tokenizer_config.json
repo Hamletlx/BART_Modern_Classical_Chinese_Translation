@@ -55,6 +55,7 @@
   "do_basic_tokenize": true,
   "do_lower_case": false,
   "eos_token": "[EOS]",
+  "extra_special_tokens": {},
   "mask_token": "[MASK]",
   "model_max_length": 1000000000000000019884624838656,
   "never_split": null,

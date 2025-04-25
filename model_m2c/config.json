@@ -1,5 +1,4 @@
 {
-  "_name_or_path": "bart_base_chinese",
   "activation_dropout": 0.1,
   "activation_function": "gelu",
   "add_bias_logits": false,
@@ -66,7 +65,7 @@
   },
   "tokenizer_class": "BertTokenizer",
   "torch_dtype": "float32",
-  "transformers_version": "4.44.0",
+  "transformers_version": "4.51.3",
   "use_cache": true,
   "vocab_size": 51271
 }
